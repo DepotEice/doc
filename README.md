@@ -1,4 +1,4 @@
-# Graduation Work : Depot Eice
+# Depot Eice
 
 ## Summary
 
